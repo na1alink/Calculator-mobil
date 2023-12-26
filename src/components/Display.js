@@ -32,11 +32,11 @@ const styles = StyleSheet.create({
 	},
 	mainDisplay: {
 		color: 'white',
-		fontSize: '2rem',
+		fontSize: 35,
 	},
 	storedDisplay: {
 		color: 'white',
-		fontSize: '1.5rem',
+		fontSize: 20,
 	},
 })
 
